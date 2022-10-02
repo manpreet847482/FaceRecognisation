@@ -1,0 +1,2 @@
+# FaceRecognisation
+This is our Capstone project for Cloud computing course. In this Project, We are going to build a face recognition web application with machine learning in Flask/Django.The image processing is with OpenCV then further we are going to build ML which includes data preprocessing, Data Analysis and pipeline. Afterwards, we are going to integrate it to a web application and finally deploy this to cloud.
